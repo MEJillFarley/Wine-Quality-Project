@@ -97,6 +97,27 @@ ATTRIBUTES OF LOW-QUALITY WINE
 
 * Alcohol Range: 10%-15% Average
 
+## Summary
+* After comparing 4,898 data points both high-quality and low-quality wines carry attributes that fall into a similar ranges to reproduce. High-quality wines carry higher overall attribute averages for both red and white wines. 
+
+
+
+## High-Quality Red & High-Quality White Wines 
+* Free Sulfur Range: 30%-40% Average
+* Total Sulfur Range: 120%-140% Average
+* Residual Sugar Range: 5%-10% Average
+* Alcohol Range: 10%-15% Average
+
+
+
+## Low-Quality Red & Low-Quality White Wines
+* Free Sulfur Range: 15%-20% Average
+* Total Sulfur Range: 50%-60% Average
+* Residual Sugar Range: 1%-5% Average
+* Alcohol Range: 10%-15% Average
+
+
+
 
 ## Limitations and Conclusion
 ### Limitations
