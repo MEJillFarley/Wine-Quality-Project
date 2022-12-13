@@ -32,9 +32,28 @@ Data Set: https://archive.ics.uci.edu/ml/datasets/Wine+Quality
 
 ## High/Low-Quality Red Wines
 ![heatmap-red](Image/heatmap-red.jpg)
+* Negative Correlation (Closer to -1)
+* Fixed Acidity  and pH -0.68
+* Citric Acid and pH -0.54
+* Citric Acid and Volatile Acidity -0.55
+* Positive Correlation (Closer to +1)
+* Density and Fixed Acidity 0.67
+* Citric Acid and Fixed Acidity 0.67
+* Total Sulfur Dioxide and Free Sulfur Dioxide 0.67
 
 
 ![bar-red](Image/bar-red.jpg)
+* Variance od Red Wines
+* Free Sulfur 
+* Total Sulfur 
+* Residual Sugar
+* Fixed Acidity
+
+* Comparison between high and low red wine: 
+* More sulfur present for high quality
+* More residual sugar for high quality
+* Alcohol and pH is equal
+
 
 ## High/Low-Quality White Wines
 ![heatmap-white](Image/heatmap-white.jpg)
